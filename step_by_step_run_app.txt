@@ -1,0 +1,9 @@
+1. Clone dự án về máy
+2. Mở terminal và cd vào folder dự án
+3. Chạy lần lượt các câu lệnh sau
+- npm i
+- npm run build
+- npx cap sync
+- npx cap open android
+4. Mở máy ảo bên android studio
+5. Chạy dự án
